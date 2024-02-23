@@ -2,7 +2,7 @@
 <p align="center"><img src="https://i.ibb.co/c3XXC4t/logo.png" alt="logo" width="200" height="auto"></p>
 
 ---
-Hi, I'm Rami "r4im4nn" Gavo, I've loved computer science for a very long time. 
+Hello, I'm r4im4nn, I've loved computer science for a very long time. 
 I'm more oriented to the cybersecurity field, all along my career I'll acquire knowledge, 
 I'll try to share it with you on my website, so if you want to learn something I make courses on my website, 
 there are also write-ups of challenges(Tryhackme, HackTheBox and others) and you find projects(scripts) here on my github.
