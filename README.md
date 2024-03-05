@@ -1,5 +1,5 @@
 <h1 align="center">| Ethical Hacker - CTF Player - Professor|</h1>
-<p align="center"><img src="https://i.ibb.co/c3XXC4t/logo.png" alt="logo" width="200" height="auto"></p>
+<p align="center"><img src="https://i.ibb.co/8BwYqcg/logo.png" alt="logo" width="200" height="auto"></p>
 
 ---
 Hello, I'm r4im4nn, I've loved computer science for a very long time. 
