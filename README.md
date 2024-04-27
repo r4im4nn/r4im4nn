@@ -10,4 +10,4 @@ there are also write-ups of challenges(Tryhackme, HackTheBox and others) and you
 ---
 <h2>List of my tools</h2>
 
-- **[CTF_FOFIC](https://github.com/r4im4nn/CTF_FOFIC)** : CTF FOFIC (Folder File Creator) is a python3 script that generates a folder with a note-taking file for CTF challenges on Linux only.
+- **[CTF_FOFIC](https://github.com/r4im4nn/CTF_FOFIC)** : CTF FOFIC (Folder File Creator) is a python 3 script that generates a folder with a note-taking file for CTF challenges on Linux only.
