@@ -4,7 +4,7 @@
 ---
 Hello, I'm r4im4nn, I've loved computer science for a very long time. 
 I'm more oriented to the cybersecurity field, all along my career I'll acquire knowledge, 
-I'll try to share it with you on my Website, so if you want to learn something I make courses on my Website, 
+I'll try to share it with you, so if you want to learn something I make courses on my Website, 
 there are also write-ups of challenges(Tryhackme, HackTheBox and others) and you find projects(scripts) here on my github.
 
 ---
